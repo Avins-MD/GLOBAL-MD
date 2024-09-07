@@ -9,14 +9,12 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 <p align="center"><img src="https://profile-counter.glitch.me/{GLOBAL-MD}/count.svg" alt="Qasim Ali :: Visitor's Count" /></p>
 
 
+
 <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=red&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/GLOBAL-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/GLOBAL-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GlobalTechInfo/GLOBAL-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/GLOBAL-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Qasim%20Ali-red?v=103"></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/GLOBAL-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGlobalTechInfo%2FGLOBAL-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/GlobalTechInfo/GLOBAL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -30,19 +28,18 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 
 ## `Generate Pair Code For Session`
 
-### Watch Turtorial
-<a href="https://youtu.be/lsl636dr3yk"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/lsl636dr3yk" /><br>
+
+## PAIRING SERVER 1
+<a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+## PAIRING SERVER 2
+
+<a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
-<a href='https://web-vstsf.onrender.com' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+`GET CREDS FILE AND UPLOAD IT INSIDE SESSION FOLDER OF FORK`
 
-## ⬇️USING GIFTED PAIRING BECAUSE MINE NOT WORKING
-
-<a href='https://replit.com/@mouriceonyango0/Giftedv5-PairCode' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-magenta?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-#### NOW UPLOAD YOUR CREDS.JSON FILE INSIDE SESSION FOLDER OF YOUR FORK
-
-# 🛟 `Deployments`
+# 🛟 `DEPLOYEMENTS`
 
 ## Watch Tutorial For Hosting Panel
 <a href="https://youtu.be/WpfdClSeQyg"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
@@ -54,7 +51,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 ### DEPLOY TO HEROKU 
 
-<a href='https://id.heroku.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-rebeccapurple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GlobalTechInfo/GLOBAL-MD)
 
 ### DEPLOY TO REPLIT
 
@@ -69,6 +66,9 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
 
+## WATCH TUTORIAL FOR RENDER
+<a href="https://youtu.be/8Y8cE68vg5A"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/WpfdClSeQyg" /><br>
+
 ### DEPLOY TO RENDER
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
@@ -80,6 +80,12 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 ### DEPLOY TO KOYEB
 
 <a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+# Thanks To 💚
+
+| [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) | [![Suhail Ser](https://github.com/SuhailTechInfo.png?size=100)](https://github.com/SuhailTechInfo) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
+| --- | --- | ---|
+| [Qasim Ali](https://github.com/GlobalTechInfo) | [Suhail Ser](https://github.com/SuhailTechInfo) | [WhiskeySockets](https://github.com/WhiskeySockets) |
 
 [![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK)
 
@@ -96,7 +102,7 @@ apt install -y webp git nodejs ffmpeg wget imagemagick
 git clone https://github.com/<your gitHub Username>/GLOBAL-MD
 cd GLOBAL-MD
 npm install
-npm start
+node index --pairing-code
 ```
 ### Features 💌
 ### Scroll Right To Left
